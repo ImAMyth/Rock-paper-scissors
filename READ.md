@@ -1,0 +1,1 @@
+This is a simple rock , paper , scissors game , with the winner being the first to the score of 5. This project was created mainly using DOM Manipulation
